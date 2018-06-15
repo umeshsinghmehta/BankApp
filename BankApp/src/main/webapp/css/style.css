@@ -1,0 +1,39 @@
+/* CSS Document */
+
+#maincontatiner{
+	width:800px;
+	height:600px;
+	background-image:url("../images/BankBackgroundImage.jpg");
+	margin:0;
+ 	padding:0;
+	margin-top:30px;
+	margin-left:100px;
+	margin-right:80px;
+ 	background-position:center;	
+}
+.style2 {
+	font-size: x-large;
+	color: #FFFFFF;
+	font-weight: bold;
+}
+.style3 {color: #FF0000}
+.style4 {color: #FFFFFF}
+
+#response_container{
+	width:700px;
+	height:300px;
+	background-image:url("../images/Form-background-medium.jpg");
+	margin:0;
+ 	padding:0;
+	margin-top:50px;
+	margin-left:150px;
+	margin-right:80px;
+ 	background-position:center;	
+}
+
+.style5 {color: #FFFFFF}
+.style4 {
+	color: #FFFFFF;
+	font-weight: bold;
+	font-size: large;
+}
